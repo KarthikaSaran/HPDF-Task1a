@@ -24,7 +24,7 @@ Flask can be installed by following the instructions given in the link below
 http://www1.cmc.edu/pages/faculty/alee/cs40/penv/installFlaskOnWindows.html
 ```
 
-Create a python project in any IDE of your choice preferably Pycharm. Or else you can create python files and run individually as follows.Go the pthon working directory
+Create a python project in any IDE of your choice preferably Pycharm. Or else you can create python files and run individually as follows.Go to the python working directory
 
 ```
 python <path to python file to be run>
@@ -34,7 +34,7 @@ python <path to python file to be run>
 
 ## Development Server starts
 
-As the pthon file is successfully run, development server starts with this output
+As the python file is successfully run, development server starts with this output
 ```
 * Restarting with stat
 * Debugger is active!
