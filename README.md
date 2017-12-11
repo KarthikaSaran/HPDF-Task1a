@@ -8,7 +8,7 @@ You need Python and Flask to run this.
 
 ### Prerequisites
 
-Install Python from the link given below
+Download and Install Python from the link given below
 
 ```
 https://www.python.org/downloads/
@@ -16,25 +16,25 @@ https://www.python.org/downloads/
 
 ### Installing Flask
 
-Flask can be installed by following the instructions given in the link below
+Flask can be installed by navigating to the folder which has 'pip' installed (eg.'C://Python27/Scripts/') and executing the following commands.
 
 
 
 ```
-http://www1.cmc.edu/pages/faculty/alee/cs40/penv/installFlaskOnWindows.html
+pip install flask
 ```
 
-Create a python project in any IDE of your choice preferably Pycharm. Or else you can create python files and run individually as follows.Go to the python working directory
+Copy all the files into a folder.Go to the python working directory(directory which has python.exe. eg.'C://Python27' ).Run the 'main.py' file as follows
 
 ```
-python <path to python file to be run>
+python <path to python file main.py>
 ```
 
 
 
 ## Development Server starts
 
-As the python file is successfully run, development server starts with this output
+As the python file is successfully run, development server starts with the following output.
 ```
 * Restarting with stat
 * Debugger is active!
@@ -44,7 +44,7 @@ As the python file is successfully run, development server starts with this outp
 
 
 
-Access this link on our browser for the home page and navigate to the respective urls as coded to find the respective outputs.
+Access the link  http://127.0.0.1:5000/ on our browser for the home page and navigate to the respective urls as coded to find the respective outputs. The urls are listed below.
 
 ```
 http://127.0.0.1:5000/
